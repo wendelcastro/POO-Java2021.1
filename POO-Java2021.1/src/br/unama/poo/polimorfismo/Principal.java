@@ -4,6 +4,7 @@ package br.unama.poo.polimorfismo;
 
 public class Principal {
 
+  
 
     public static void main(String[] args) {
         //Classe Abstrata não se instancia objeto
